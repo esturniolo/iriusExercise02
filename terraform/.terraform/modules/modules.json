@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"iam","Source":"./modules/iam","Dir":"modules/iam"},{"Key":"lambda","Source":"./modules/lambda","Dir":"modules/lambda"},{"Key":"","Source":"","Dir":"."},{"Key":"apigw","Source":"./modules/apigw","Dir":"modules/apigw"},{"Key":"cloudwatch","Source":"./modules/cloudwatch","Dir":"modules/cloudwatch"}]}
